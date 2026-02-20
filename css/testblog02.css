@@ -207,7 +207,7 @@ footer a:hover {
 @media (max-width: 900px) {
   .gallery {
     grid-template-columns: repeat(2, 1fr);
-    gap: 40px; /* más aire entre miniaturas en móvil */
+    gap: 20px; /* 40px más aire entre miniaturas en móvil */
   }
 }
 
